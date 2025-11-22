@@ -24,7 +24,7 @@ export default function ProjectCard({ project }: { project: Project }) {
         <div className="absolute inset-0 bg-gradient-to-t from-[#0B2545]/90 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-4">
           <button className="flex items-center space-x-2 text-sm font-medium bg-white/10 backdrop-blur-sm px-3 py-2 rounded-lg hover:bg-white/20 transition-colors">
             <Play size={16} />
-            <span>Play Demo</span>
+            <span>View website</span>
           </button>
         </div>
         <div className="absolute inset-0 border-2 border-[#00E5FF] opacity-0 group-hover:opacity-100 transition-opacity rounded-xl pointer-events-none"></div>

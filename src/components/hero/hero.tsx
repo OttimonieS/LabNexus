@@ -66,7 +66,7 @@ export default function Hero() {
                 <div className="w-3 h-3 rounded-full bg-[#28C940]"></div>
               </div>
               <div className="ml-auto text-xs text-[#9AA7BD]">
-                a11yguard.vercel.app
+                
               </div>
             </div>
 

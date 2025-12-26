@@ -105,8 +105,6 @@ export default function ProjectFilter({
           ))}
         </div>
       </div>
-
-      {/* Right arrow - Fixed position */}
       <button
         aria-label="Scroll right"
         onClick={() => scrollBy(240)}
